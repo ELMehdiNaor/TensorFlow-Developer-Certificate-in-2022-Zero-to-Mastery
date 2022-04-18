@@ -74,3 +74,32 @@ Learn to:
      - CNNs (convolutional neural networks)
 
 ## 11 Milestone Project3: (Surprise)
+This last project will be good...
+
+
+## This is what you will learn through the course: 
+- **Learn to pass Google's official TensorFlow Developer Certificate exam (and add it to your resume)**
+
+- **Build TensorFlow models using Computer Vision, Convolutional Neural Networks and Natural Language Processing**
+
+- **Complete access to ALL interactive notebooks and ALL course slides as downloadable guides**
+
+- **Increase your skills in Machine Learning and Deep Learning, to test your abilities with the TensorFlow assessment exam**
+
+- **Understand how to integrate Machine Learning into tools and applications**
+
+- **Learn to build all types of Machine Learning Models using the latest TensorFlow 2**
+
+- **Build image recognition, object detection, text recognition algorithms with deep neural networks and convolutional neural networks**
+
+- **Using real world images to visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy**
+
+- **Applying Deep Learning for Time Series Forecasting**
+
+- **Gain the skills you need to become a TensorFlow Certified Developer**
+
+- **Be recognized as a top candidate for recruiters seeking TensorFlow developers**
+
+## Are there any specific requirements or prerequisites for the course?
+- **Mac / Windows / Linux - all operating systems work with this course!**
+- **No previous TensorFlow knowledge required. Basic understanding of Machine Learning is helpful**
